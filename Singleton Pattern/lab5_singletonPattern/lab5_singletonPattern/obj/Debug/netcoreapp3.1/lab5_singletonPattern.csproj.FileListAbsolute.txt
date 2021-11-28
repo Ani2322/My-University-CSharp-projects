@@ -1,0 +1,14 @@
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\bin\Debug\netcoreapp3.1\lab5_singletonPattern.exe
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\bin\Debug\netcoreapp3.1\lab5_singletonPattern.deps.json
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\bin\Debug\netcoreapp3.1\lab5_singletonPattern.runtimeconfig.json
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\bin\Debug\netcoreapp3.1\lab5_singletonPattern.runtimeconfig.dev.json
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\bin\Debug\netcoreapp3.1\lab5_singletonPattern.dll
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\bin\Debug\netcoreapp3.1\lab5_singletonPattern.pdb
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\obj\Debug\netcoreapp3.1\lab5_singletonPattern.csproj.AssemblyReference.cache
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\obj\Debug\netcoreapp3.1\lab5_singletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\obj\Debug\netcoreapp3.1\lab5_singletonPattern.AssemblyInfoInputs.cache
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\obj\Debug\netcoreapp3.1\lab5_singletonPattern.AssemblyInfo.cs
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\obj\Debug\netcoreapp3.1\lab5_singletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\obj\Debug\netcoreapp3.1\lab5_singletonPattern.dll
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\obj\Debug\netcoreapp3.1\lab5_singletonPattern.pdb
+C:\Users\Ani\source\repos\lab5_singletonPattern\lab5_singletonPattern\obj\Debug\netcoreapp3.1\lab5_singletonPattern.genruntimeconfig.cache
