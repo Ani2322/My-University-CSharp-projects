@@ -1,0 +1,14 @@
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\bin\Debug\netcoreapp3.1\lab6_zad2.exe
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\bin\Debug\netcoreapp3.1\lab6_zad2.deps.json
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\bin\Debug\netcoreapp3.1\lab6_zad2.runtimeconfig.json
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\bin\Debug\netcoreapp3.1\lab6_zad2.runtimeconfig.dev.json
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\bin\Debug\netcoreapp3.1\lab6_zad2.dll
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\bin\Debug\netcoreapp3.1\lab6_zad2.pdb
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\obj\Debug\netcoreapp3.1\lab6_zad2.csproj.AssemblyReference.cache
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\obj\Debug\netcoreapp3.1\lab6_zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\obj\Debug\netcoreapp3.1\lab6_zad2.AssemblyInfoInputs.cache
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\obj\Debug\netcoreapp3.1\lab6_zad2.AssemblyInfo.cs
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\obj\Debug\netcoreapp3.1\lab6_zad2.csproj.CoreCompileInputs.cache
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\obj\Debug\netcoreapp3.1\lab6_zad2.dll
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\obj\Debug\netcoreapp3.1\lab6_zad2.pdb
+C:\Users\Ani\source\repos\lab6_zad1\lab6_zad2\obj\Debug\netcoreapp3.1\lab6_zad2.genruntimeconfig.cache
